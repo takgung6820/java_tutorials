@@ -25,7 +25,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java_tutorials" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -48,6 +55,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Application.CollectionsDemo">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -164,7 +174,8 @@
       <workItem from="1576999601068" duration="23153000" />
       <workItem from="1577068734231" duration="173000" />
       <workItem from="1577084990289" duration="34256000" />
-      <workItem from="1577252096147" duration="14935000" />
+      <workItem from="1577252096147" duration="15341000" />
+      <workItem from="1577342900986" duration="72000" />
     </task>
     <servers />
   </component>
@@ -188,35 +199,44 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="522" y="355" key="Github.CreateGistDialog/0.23.1440.819@0.23.1440.819" timestamp="1577280449068" />
-    <state width="1358" height="211" key="GridCell.Tab.0.bottom" timestamp="1577280575326">
+    <state width="679" height="211" key="GridCell.Tab.0.bottom" timestamp="1577281150337">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1358" height="211" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1577017567380" />
-    <state width="1358" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1577280575326" />
+    <state width="679" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1577281150337" />
     <state width="1358" height="211" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1577276751723" />
-    <state width="1358" height="211" key="GridCell.Tab.0.center" timestamp="1577280575325">
+    <state width="679" height="211" key="GridCell.Tab.0.center" timestamp="1577281150336">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1358" height="211" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1577017567380" />
-    <state width="1358" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1577280575325" />
+    <state width="679" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1577281150336" />
     <state width="1358" height="211" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1577276751722" />
-    <state width="1358" height="211" key="GridCell.Tab.0.left" timestamp="1577280575324">
+    <state width="679" height="211" key="GridCell.Tab.0.left" timestamp="1577281150336">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1358" height="211" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1577017567379" />
-    <state width="1358" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1577280575324" />
+    <state width="679" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1577281150336" />
     <state width="1358" height="211" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1577276751722" />
-    <state width="1358" height="211" key="GridCell.Tab.0.right" timestamp="1577280575325">
+    <state width="679" height="211" key="GridCell.Tab.0.right" timestamp="1577281150337">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1358" height="211" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1577017567380" />
-    <state width="1358" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1577280575325" />
+    <state width="679" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1577281150337" />
     <state width="1358" height="211" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1577276751723" />
-    <state x="397" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1577252169241">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="207" y="23" key="SettingsEditor" timestamp="1577342934181">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
+    <state x="207" y="23" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1577342934181" />
+    <state x="397" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1577342903007">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="397" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1577342903007" />
     <state x="397" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1577252169241" />
     <state x="397" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1577084996467" />
+    <state x="96" y="55" key="new project wizard" timestamp="1577342968704">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="96" y="55" key="new project wizard/0.23.1440.813@0.23.1440.813" timestamp="1577342968704" />
     <state x="231" y="51" key="refactoring.ChangeSignatureDialog" timestamp="1577097516390">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
